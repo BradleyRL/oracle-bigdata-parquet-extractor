@@ -1,0 +1,17 @@
+# Environment & Secrets
+.env
+
+# Python & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Data & Output Files
+*.parquet
+data/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
